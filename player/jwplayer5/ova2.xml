@@ -18,7 +18,7 @@
               "schedule": [
                   {
                       "position": "pre-roll",
-                      "tag": "http://ad.ripplead.com/?advideo/3.0/1337.1/4872242/0//cc=2;vidAS=pre_roll;vidRT=VAST;vidRTV=2.0"                 }
+                      "tag": "http://serve.vdopia.com/adserver/vastxml/f7f83d93dff05850bdb6e439ba27a8a0/preroll/category:EN;api_test:false;format:both;tagtype:publisher;ru=http://www.indostreamix.com;rand=$random"                 }
               ]
           }
        }
